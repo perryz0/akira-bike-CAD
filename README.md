@@ -1,6 +1,6 @@
 # Akira Bike Design
 
-A really cool project I worked on as the final project submission to an intro SolidWorks course. Check "Akira Bike Render.jpg" for the 3D rendered final product using Photoview 360. The movie is one of the best out there...
+A really cool project I worked on as the final project submission to an intro SolidWorks course. Check "Akira Bike Render.jpg" for the 3D rendered final product made using Photoview 360. Check out the movie, one of the best out there...
 
 This file was originally named "ME 123 Final Project Annotation.txt".
 
